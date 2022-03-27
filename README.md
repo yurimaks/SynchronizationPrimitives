@@ -1,1 +1,1 @@
-# multithreding-examples
+# Multithreading and Synchronization examples
